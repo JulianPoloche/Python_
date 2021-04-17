@@ -12,12 +12,9 @@ class Empleado:
 
     def setNombre(self,nombre):
         self.__nombre = nombre
-    
-    ##def horasExtra(self):
-
-  ##  def horasExtra(self):
 
 
+        
     def __str__(self):
         return str(
             "nombre : {} \n "
